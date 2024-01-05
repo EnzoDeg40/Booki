@@ -262,6 +262,10 @@ header .navbar a:hover {
     box-sizing: border-box;
 }
 
+.hebergements .container-cards a {
+    width: 100%;
+}
+
 .hebergements .container-cards .heberg-cards {
     border-radius: 20px;
     background: #FFF;
